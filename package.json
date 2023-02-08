@@ -1,0 +1,11 @@
+{
+  "name": "websi-template-bun",
+  "module": "main.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.4.0"
+  },
+  "dependencies": {
+    "websi": "^0.3.0"
+  }
+}
